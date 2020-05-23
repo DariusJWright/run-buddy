@@ -13,4 +13,4 @@ https://zero758.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Darius Wright
 
-### &copy2019 RUn Buddy, Inc
+### ©️2019 RUn Buddy, Inc
