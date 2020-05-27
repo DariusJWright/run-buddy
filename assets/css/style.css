@@ -396,8 +396,8 @@ section {
     border-radius: 15px;
 }
 
-.contact-form input, .contact-form textarea:focus {
-    background-color: rgba(245, 242, 240, 0.75);
+.contact-form input:focus, .contact-form textarea:focus {
+    background-color: rgba(245, 242, 240, 1);
     outline: none;
 }
 
